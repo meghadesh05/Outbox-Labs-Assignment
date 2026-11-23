@@ -1,0 +1,7 @@
+Name,Email,Company,Role
+Alice Johnson,alice.engineer@example.com,TechCorp,Staff Engineer
+Bob Smith,bob.marketing@company.org,GrowthCo,Marketing Lead
+Charlie Brown,charlie.brown@peanuts.net,Freelance,Cartoonist
+Diana Prince,diana.prince@themyscira.gov,Gov,Ambassador
+Evan Wright,evan.wright@example.com,Venture Capital,Partner
+Duplicate Alice,alice.engineer@example.com,TechCorp,Staff Engineer
